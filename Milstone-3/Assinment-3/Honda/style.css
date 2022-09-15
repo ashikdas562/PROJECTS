@@ -1,0 +1,66 @@
+header{
+    background-color: #264653;
+}
+
+.nav-login{
+    color: #FFFFFF;
+    background-color: #E76F51;
+    border: #E76F51;
+    padding: 5px 12px 5px 12px;
+    border-radius: 5px;
+
+}
+
+.purchase-btn{
+    background-color:#E76F51;
+    border: 0;
+    width: 168px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 5px;
+    gap: 10px;
+    color: #FFFFFF;
+}
+#hr-style{
+    width: 58.5px;
+    height: 0px;
+    border: 1px solid #E76F51;
+    border-radius: 1px;
+}
+
+.fetured-bike{
+    width: 200px;
+    height:145px ;
+}
+
+.grayscal-img{
+    filter: grayscale(100%);
+}
+
+.read-more-btn{
+    width: 100px;
+    background: #E76F51;
+    color: #FFFFFF;
+    padding: 5px;
+    border: 0;
+    border-radius: 5px;
+}
+
+
+.user-img{
+
+    clip-path: circle();
+    margin-top: 48px;
+}
+
+
+.footer-img{
+    width: 135px;
+    height: 60px;
+}
+
+.app-store{
+    width: 100px;
+
+    
+}
